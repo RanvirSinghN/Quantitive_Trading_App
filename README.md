@@ -9,4 +9,4 @@ The first stage focuses only on simulated and paper trading, not real-money exec
 1) Import historical data, clean it and apply feature engineering.
 2) Simulate a portfolio, backtest and build first dashboard
 3) Use broker APIs to simulate real time paper trading
-4) Build the "AI assistant" that researches and generates signals for me
+4) Build the "AI assistant layer". Use ML with the feature engineering and connect to api that researches and generates signals for me
